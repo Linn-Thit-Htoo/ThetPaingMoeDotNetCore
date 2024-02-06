@@ -1,0 +1,21 @@
+console app => window form => MVC => REST API => self final project => 2.5 months
+
+two kinds of website => static website and dynamic website
+
+programming languages => statically programming language and dynamically programming language
+
+.NET => window only
+
+.NET Core => multi-platform or cross platform
+
+cli => command line interface
+
+void => no return
+
+Main method => entry point
+
+function 
+
+OOP => function = method / behavior
+
+property / class fields
