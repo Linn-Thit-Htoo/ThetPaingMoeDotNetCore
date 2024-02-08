@@ -19,3 +19,32 @@ function
 OOP => function = method / behavior
 
 property / class fields
+
+8.2.2024
+compile time error
+runtime error
+one equal => assign
+two equals => equal
+declaration
+assignment
+re-assign
+override
+constant variable
+initialization
+naming convention
+reserved keyword => class, public, private, protected, int, string...
+
+camelCase => userName, firstName, lastName, firstNumber
+PascalCase => UserName, FirstName
+snake_case => user_name, first_name, User_ID, First_Name
+
+global var => _userName
+
+method name => PascalCase
+
+naming consistent
+
+static, dynamic
+
+string concatenate
+interpolation
