@@ -48,3 +48,13 @@ static, dynamic
 
 string concatenate
 interpolation
+
+9.2.2024
+sequence
+selection => one way, two ways, multi ways
+
+decition makings...
+
+one way => if(){}
+two ways => if(){} else{}
+multi ways => if(){} else if(){} else{}

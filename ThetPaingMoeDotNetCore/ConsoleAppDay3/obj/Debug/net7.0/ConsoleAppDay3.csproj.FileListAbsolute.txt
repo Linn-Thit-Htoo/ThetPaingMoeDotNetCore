@@ -1,0 +1,15 @@
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\bin\Debug\net7.0\ConsoleAppDay3.exe
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\bin\Debug\net7.0\ConsoleAppDay3.deps.json
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\bin\Debug\net7.0\ConsoleAppDay3.runtimeconfig.json
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\bin\Debug\net7.0\ConsoleAppDay3.dll
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\bin\Debug\net7.0\ConsoleAppDay3.pdb
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.csproj.AssemblyReference.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.AssemblyInfoInputs.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.AssemblyInfo.cs
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.csproj.CoreCompileInputs.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.dll
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\refint\ConsoleAppDay3.dll
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.pdb
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ConsoleAppDay3.genruntimeconfig.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\ConsoleAppDay3\obj\Debug\net7.0\ref\ConsoleAppDay3.dll

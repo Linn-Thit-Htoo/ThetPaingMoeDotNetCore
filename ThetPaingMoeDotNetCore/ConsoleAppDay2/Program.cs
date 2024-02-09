@@ -21,6 +21,7 @@ public class Program
         Console.ReadKey();
     }
 
+
     public static void UserGreeting()
     {
         Console.WriteLine("Enter your age: ");
