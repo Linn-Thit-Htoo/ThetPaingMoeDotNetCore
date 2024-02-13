@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\ConsoleAppDay1\\ConsoleAppDay1.csproj",
+      "projectUniqueName": "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\ConsoleAppDay1\\ConsoleAppDay1.csproj",
       "projectName": "ConsoleAppDay1",
-      "projectPath": "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\ConsoleAppDay1\\ConsoleAppDay1.csproj",
+      "projectPath": "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\ConsoleAppDay1\\ConsoleAppDay1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\ConsoleAppDay1\\obj\\",
+      "outputPath": "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\ConsoleAppDay1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

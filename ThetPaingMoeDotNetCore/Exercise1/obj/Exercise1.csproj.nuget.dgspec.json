@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj": {}
+    "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj": {}
   },
   "projects": {
-    "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj": {
+    "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj",
+        "projectUniqueName": "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj",
         "projectName": "Exercise1",
-        "projectPath": "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj",
+        "projectPath": "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\Exercise1.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\obj\\",
+        "outputPath": "D:\\1 on 1 classes\\ThetPaingMoeDotNetCore\\ThetPaingMoeDotNetCore\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

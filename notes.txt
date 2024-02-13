@@ -58,3 +58,10 @@ decition makings...
 one way => if(){}
 two ways => if(){} else{}
 multi ways => if(){} else if(){} else{}
+
+13.2.2024
+- initialization
+- increment
+- decrement
+- lambda expression
+- array index starts with 0.
