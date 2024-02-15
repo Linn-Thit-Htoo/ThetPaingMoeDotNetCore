@@ -65,3 +65,12 @@ multi ways => if(){} else if(){} else{}
 - decrement
 - lambda expression
 - array index starts with 0.
+
+15.2.2024
+
+OOP => method || function
+
+static => static
+non static => static, non static
+
+static => non static (by instance object)
