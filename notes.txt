@@ -74,3 +74,9 @@ static => static
 non static => static, non static
 
 static => non static (by instance object)
+
+16.2.2024
+
+- method overloading = compile time polymorphism
+1. same method name, different number of params
+2. same method name, name number of params, different data types
