@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "Exercise2\Exer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppDay6", "ConsoleAppDay6\ConsoleAppDay6.csproj", "{6F3BB806-8971-46EB-9DBD-B837CD9FC15F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDay7", "ConsoleAppDay7\ConsoleAppDay7.csproj", "{C0898045-E8BD-4C03-A1A4-2F6B5AC4851A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppDay7", "ConsoleAppDay7\ConsoleAppDay7.csproj", "{C0898045-E8BD-4C03-A1A4-2F6B5AC4851A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3", "Homework3\Homework3.csproj", "{A7363177-79AF-4717-87D2-46F5627181CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework3", "Homework3\Homework3.csproj", "{A7363177-79AF-4717-87D2-46F5627181CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDay8", "ConsoleAppDay8\ConsoleAppDay8.csproj", "{52C86E1E-0B09-47E6-92F9-EE4E921DEAB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{A7363177-79AF-4717-87D2-46F5627181CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7363177-79AF-4717-87D2-46F5627181CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7363177-79AF-4717-87D2-46F5627181CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C86E1E-0B09-47E6-92F9-EE4E921DEAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C86E1E-0B09-47E6-92F9-EE4E921DEAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C86E1E-0B09-47E6-92F9-EE4E921DEAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C86E1E-0B09-47E6-92F9-EE4E921DEAB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
