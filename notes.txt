@@ -80,3 +80,10 @@ static => non static (by instance object)
 - method overloading = compile time polymorphism
 1. same method name, different number of params
 2. same method name, name number of params, different data types
+
+23.02.2024
+
+- runtime polymorphism (dynamic polymorphism) => method overriding
+- compile time polymorphism (static polymorphism) => method overloading
+
+- abstract method cannot be private.
