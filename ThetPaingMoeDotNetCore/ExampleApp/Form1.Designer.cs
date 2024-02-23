@@ -28,12 +28,47 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            label1 = new Label();
+            btnGreeting = new Button();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Cambria", 36F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
+            label1.Location = new Point(444, 78);
+            label1.Name = "label1";
+            label1.Size = new Size(610, 70);
+            label1.TabIndex = 0;
+            label1.Text = "Window App Example";
+            // 
+            // btnGreeting
+            // 
+            btnGreeting.BackColor = SystemColors.ActiveCaption;
+            btnGreeting.Location = new Point(671, 297);
+            btnGreeting.Name = "btnGreeting";
+            btnGreeting.Size = new Size(175, 81);
+            btnGreeting.TabIndex = 1;
+            btnGreeting.Text = "Greeting";
+            btnGreeting.UseVisualStyleBackColor = false;
+            btnGreeting.Click += btnGreeting_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1475, 980);
+            Controls.Add(btnGreeting);
+            Controls.Add(label1);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label1;
+        private Button btnGreeting;
     }
 }
