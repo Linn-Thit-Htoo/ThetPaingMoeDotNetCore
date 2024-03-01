@@ -117,3 +117,11 @@ problem
 IsDeleted => default 0 (false);
 SELECT * FROM User WHERE IsDeleted = false; // fetch active users
 UPDATE User SET IsDeleted = true WHERE UserId = 1;
+
+int, long => length
+string
+datetime
+bool => bit
+
+standalone
+client server => multiple end users
