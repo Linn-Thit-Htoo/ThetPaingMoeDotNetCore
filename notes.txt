@@ -1,0 +1,119 @@
+console app => window form => MVC => REST API => self final project => 2.5 months
+
+two kinds of website => static website and dynamic website
+
+programming languages => statically programming language and dynamically programming language
+
+.NET => window only
+
+.NET Core => multi-platform or cross platform
+
+cli => command line interface
+
+void => no return
+
+Main method => entry point
+
+function 
+
+OOP => function = method / behavior
+
+property / class fields
+
+8.2.2024
+compile time error
+runtime error
+one equal => assign
+two equals => equal
+declaration
+assignment
+re-assign
+override
+constant variable
+initialization
+naming convention
+reserved keyword => class, public, private, protected, int, string...
+
+camelCase => userName, firstName, lastName, firstNumber
+PascalCase => UserName, FirstName
+snake_case => user_name, first_name, User_ID, First_Name
+
+global var => _userName
+
+method name => PascalCase
+
+naming consistent
+
+static, dynamic
+
+string concatenate
+interpolation
+
+9.2.2024
+sequence
+selection => one way, two ways, multi ways
+
+decition makings...
+
+one way => if(){}
+two ways => if(){} else{}
+multi ways => if(){} else if(){} else{}
+
+13.2.2024
+- initialization
+- increment
+- decrement
+- lambda expression
+- array index starts with 0.
+
+15.2.2024
+
+OOP => method || function
+
+static => static
+non static => static, non static
+
+static => non static (by instance object)
+
+16.2.2024
+
+- method overloading = compile time polymorphism
+1. same method name, different number of params
+2. same method name, name number of params, different data types
+
+23.02.2024
+
+- runtime polymorphism (dynamic polymorphism) => method overriding
+- compile time polymorphism (static polymorphism) => method overloading
+
+- abstract method cannot be private.
+
+
+Window form app
+
+- btnGreeting, btnLogin, btnRegister, btnExit
+- text field (box) => txtUserName, txtEmail, txtPassword
+- label => lblUserName, lblEmail
+- label error => lblUserNameError, lblEmialError
+- combo box => cbo1, cbo2
+- data grid view => dgv1, dgv2
+
+1.3.2024
+
+- Email
+- Name
+- no UNIQ => test duplicate (code level)
+
+- db level => unique
+- db exception
+- user request -> server -> db -> insert -> throw exception (latency)
+- use request -> server -> test duplicate
+
+problem
+- no where condition all rows deleted
+- don't want to use DELETE query
+- how we can know this user is deleted?
+
+IsDeleted => default 0 (false);
+SELECT * FROM User WHERE IsDeleted = false; // fetch active users
+UPDATE User SET IsDeleted = true WHERE UserId = 1;

@@ -1,0 +1,15 @@
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\bin\Debug\net7.0\Exercise1.exe
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\bin\Debug\net7.0\Exercise1.deps.json
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\bin\Debug\net7.0\Exercise1.runtimeconfig.json
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\bin\Debug\net7.0\Exercise1.dll
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\bin\Debug\net7.0\Exercise1.pdb
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.csproj.AssemblyReference.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.AssemblyInfoInputs.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.AssemblyInfo.cs
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.csproj.CoreCompileInputs.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.dll
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\refint\Exercise1.dll
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.pdb
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\Exercise1.genruntimeconfig.cache
+D:\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\Exercise1\obj\Debug\net7.0\ref\Exercise1.dll
