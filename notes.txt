@@ -97,3 +97,23 @@ Window form app
 - label error => lblUserNameError, lblEmialError
 - combo box => cbo1, cbo2
 - data grid view => dgv1, dgv2
+
+1.3.2024
+
+- Email
+- Name
+- no UNIQ => test duplicate (code level)
+
+- db level => unique
+- db exception
+- user request -> server -> db -> insert -> throw exception (latency)
+- use request -> server -> test duplicate
+
+problem
+- no where condition all rows deleted
+- don't want to use DELETE query
+- how we can know this user is deleted?
+
+IsDeleted => default 0 (false);
+SELECT * FROM User WHERE IsDeleted = false; // fetch active users
+UPDATE User SET IsDeleted = true WHERE UserId = 1;
