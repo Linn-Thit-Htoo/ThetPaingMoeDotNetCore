@@ -52,7 +52,7 @@ WHERE Email = @Email AND Password = @Password AND IsDeleted = @IsDeleted AND Use
                     DialogResult result = MessageBox.Show("Login Successful!", "Success!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     if (result == DialogResult.OK)
                     {
-                        UserManagement userManagement = new();
+                        UserManagementForm userManagement = new();
                         userManagement.Show();
                         this.Hide();
                         return;

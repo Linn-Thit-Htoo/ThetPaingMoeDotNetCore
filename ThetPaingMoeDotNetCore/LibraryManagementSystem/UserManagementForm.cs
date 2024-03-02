@@ -1,12 +1,14 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
+using System.Diagnostics;
+using System.Windows.Forms;
 
 namespace LibraryManagementSystem
 {
-    public partial class UserManagement : Form
+    public partial class UserManagementForm : Form
     {
         public string connectionString = "Data Source=(local);Initial Catalog=ThetPaingMoe;Integrated Security=True";
-        public UserManagement()
+        public UserManagementForm()
         {
             InitializeComponent();
         }
@@ -57,7 +59,19 @@ WHERE IsDeleted = @IsDeleted";
 
         private void dgv1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            MessageBox.Show(e.ColumnIndex.ToString());
+            if (e.ColumnIndex == 7) // edit button
+            {
+                DataGridViewRow selectedRow = dgv1.Rows[e.RowIndex];
+                int userID = Convert.ToInt32(selectedRow.Cells[0].Value);
+                string userName = Convert.ToString(selectedRow.Cells[1].Value)!;
+                string email = Convert.ToString(selectedRow.Cells[2].Value)!;
+                string password = Convert.ToString(selectedRow.Cells[3].Value)!;
+                string userRole = Convert.ToString(selectedRow.Cells[4].Value)!;
+
+                EditUserForm editUserForm = new(userID, userName, email, password, userRole);
+                editUserForm.Show();
+                this.Hide();
+            }
         }
 
         private void btnCreate_Click(object sender, EventArgs e)

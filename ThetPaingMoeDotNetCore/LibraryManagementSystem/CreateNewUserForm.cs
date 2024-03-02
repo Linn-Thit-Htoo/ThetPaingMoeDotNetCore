@@ -31,7 +31,7 @@ namespace LibraryManagementSystem
                 string userRole = cbo1.Text;
                 DateTime dateTime = DateTime.Now;
 
-                if (IsNull(userName) || IsNull(email) || IsNull(password) || IsNull(userRole))
+                if (Validation.IsNullOrEmpty(userName, email, password, userRole)) // IsNull(name) || IsNull(email)
                 {
                     MessageBox.Show("Please fill all fields...", "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
@@ -83,11 +83,6 @@ namespace LibraryManagementSystem
             {
                 throw;
             }
-        }
-
-        private bool IsNull(string str)
-        {
-            return string.IsNullOrEmpty(str);
         }
 
         private bool IsEmailDuplicate(string email)

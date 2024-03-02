@@ -22,5 +22,6 @@ D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagemen
 D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagementSystem\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagementSystem\obj\Debug\net7.0-windows\LibraryManagementSystem.csproj.CopyComplete
-D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagementSystem\obj\Debug\net7.0-windows\LibraryManagementSystem.UserManagement.resources
 D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagementSystem\obj\Debug\net7.0-windows\LibraryManagementSystem.CreateNewUserForm.resources
+D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagementSystem\obj\Debug\net7.0-windows\LibraryManagementSystem.EditUserForm.resources
+D:\1 on 1 classes\ThetPaingMoeDotNetCore\ThetPaingMoeDotNetCore\LibraryManagementSystem\obj\Debug\net7.0-windows\LibraryManagementSystem.UserManagementForm.resources
